@@ -1,0 +1,434 @@
+[
+  {
+    "topic": "bamboo",
+    "skill": "baoyu",
+    "page": 1,
+    "kind": "title",
+    "text": "竹子是一种草",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "baoyu",
+    "page": 1,
+    "kind": "kicker",
+    "text": "你不知道的",
+    "length": 5,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "baoyu",
+    "page": 2,
+    "kind": "title",
+    "text": "它和水稻同科",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "baoyu",
+    "page": 2,
+    "kind": "kicker",
+    "text": "身份大反转",
+    "length": 5,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "baoyu",
+    "page": 3,
+    "kind": "title",
+    "text": "草也能长得硬",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "baoyu",
+    "page": 3,
+    "kind": "kicker",
+    "text": "硬在哪里",
+    "length": 4,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "baoyu",
+    "page": 4,
+    "kind": "title",
+    "text": "地下还藏着茎",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "baoyu",
+    "page": 4,
+    "kind": "kicker",
+    "text": "把土层打开",
+    "length": 5,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "redbook",
+    "page": 1,
+    "kind": "title",
+    "text": "竹子是一种草",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "redbook",
+    "page": 1,
+    "kind": "kicker",
+    "text": "你不知道的",
+    "length": 5,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "redbook",
+    "page": 2,
+    "kind": "title",
+    "text": "它和水稻同科",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "redbook",
+    "page": 2,
+    "kind": "kicker",
+    "text": "身份大反转",
+    "length": 5,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "redbook",
+    "page": 3,
+    "kind": "title",
+    "text": "草也能长得硬",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "redbook",
+    "page": 3,
+    "kind": "kicker",
+    "text": "硬在哪里",
+    "length": 4,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "redbook",
+    "page": 4,
+    "kind": "title",
+    "text": "地下还藏着茎",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "redbook",
+    "page": 4,
+    "kind": "kicker",
+    "text": "把土层打开",
+    "length": 5,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "director",
+    "page": 1,
+    "kind": "title",
+    "text": "竹子是一种草",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "director",
+    "page": 1,
+    "kind": "kicker",
+    "text": "你不知道的",
+    "length": 5,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "director",
+    "page": 2,
+    "kind": "title",
+    "text": "它和水稻同科",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "director",
+    "page": 2,
+    "kind": "kicker",
+    "text": "身份大反转",
+    "length": 5,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "director",
+    "page": 3,
+    "kind": "title",
+    "text": "草也能长得硬",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "director",
+    "page": 3,
+    "kind": "kicker",
+    "text": "硬在哪里",
+    "length": 4,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "director",
+    "page": 4,
+    "kind": "title",
+    "text": "地下还藏着茎",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "bamboo",
+    "skill": "director",
+    "page": 4,
+    "kind": "kicker",
+    "text": "把土层打开",
+    "length": 5,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "baoyu",
+    "page": 1,
+    "kind": "title",
+    "text": "蝴蝶的一生",
+    "length": 5,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "baoyu",
+    "page": 1,
+    "kind": "kicker",
+    "text": "同一生命四种样",
+    "length": 7,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "baoyu",
+    "page": 2,
+    "kind": "title",
+    "text": "毛毛虫就是它",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "baoyu",
+    "page": 2,
+    "kind": "kicker",
+    "text": "卵与幼虫",
+    "length": 4,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "baoyu",
+    "page": 3,
+    "kind": "title",
+    "text": "蛹里忙着变身",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "baoyu",
+    "page": 3,
+    "kind": "kicker",
+    "text": "不是睡一觉",
+    "length": 5,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "baoyu",
+    "page": 4,
+    "kind": "title",
+    "text": "翅膀不是终点",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "baoyu",
+    "page": 4,
+    "kind": "kicker",
+    "text": "成虫与下一代",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "redbook",
+    "page": 1,
+    "kind": "title",
+    "text": "蝴蝶的一生",
+    "length": 5,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "redbook",
+    "page": 1,
+    "kind": "kicker",
+    "text": "同一生命四种样",
+    "length": 7,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "redbook",
+    "page": 2,
+    "kind": "title",
+    "text": "毛毛虫就是它",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "redbook",
+    "page": 2,
+    "kind": "kicker",
+    "text": "卵与幼虫",
+    "length": 4,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "redbook",
+    "page": 3,
+    "kind": "title",
+    "text": "蛹里忙着变身",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "redbook",
+    "page": 3,
+    "kind": "kicker",
+    "text": "不是睡一觉",
+    "length": 5,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "redbook",
+    "page": 4,
+    "kind": "title",
+    "text": "翅膀不是终点",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "redbook",
+    "page": 4,
+    "kind": "kicker",
+    "text": "成虫与下一代",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "director",
+    "page": 1,
+    "kind": "title",
+    "text": "蝴蝶的一生",
+    "length": 5,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "director",
+    "page": 1,
+    "kind": "kicker",
+    "text": "同一生命四种样",
+    "length": 7,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "director",
+    "page": 2,
+    "kind": "title",
+    "text": "毛毛虫就是它",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "director",
+    "page": 2,
+    "kind": "kicker",
+    "text": "卵与幼虫",
+    "length": 4,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "director",
+    "page": 3,
+    "kind": "title",
+    "text": "蛹里忙着变身",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "director",
+    "page": 3,
+    "kind": "kicker",
+    "text": "不是睡一觉",
+    "length": 5,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "director",
+    "page": 4,
+    "kind": "title",
+    "text": "翅膀不是终点",
+    "length": 6,
+    "passCheck": true
+  },
+  {
+    "topic": "butterfly",
+    "skill": "director",
+    "page": 4,
+    "kind": "kicker",
+    "text": "成虫与下一代",
+    "length": 6,
+    "passCheck": true
+  }
+]
